@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://vinhnt-br.github.io/moc/sitemap.xml
+
